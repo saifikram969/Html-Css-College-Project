@@ -1,0 +1,172 @@
+
+	/*design navigation */
+	
+	ul{
+		background-color: black;
+		font-family: monospace;
+		list-style-type: none;
+		font-weight: bolder;
+		font-size: 20px;
+		position: fixed;
+        margin: 0;
+		right: 0;
+		left: 0;
+		top: 0;
+		text-align: center;
+	}
+	/*navigation type,left right center this use the left*/
+	li{
+		float: left;
+	
+	}
+	/*design material like jo bhi yaha likha hua h*/
+	li a{
+		display: block;
+		color: lightgreen;
+		padding: 20px;
+		text-decoration: none;
+
+}
+
+/*this is awexome feature*/
+li a:hover{
+
+color: white;
+}
+
+
+li a{
+	position: relative;
+	right: 55px;
+}
+
+
+.kotlinlogo{
+ position: relative;
+ top: 8px;
+ right: 40px;
+}
+
+
+
+.articlekotlinlogo{
+	margin-top: 150px;
+	margin-left: 600px;
+	 
+
+
+}
+.increasedkotlinlogo{
+	margin-top: 45px;
+	margin-left: 600px;
+
+	
+	
+}
+.increased{
+	font-size: 40px;
+
+position: absolute;
+left: 90px;
+top: 600px;
+
+}
+.increasedef{
+	font-size: 25px;
+	font-style: normal;
+	position: absolute;
+	top: 700px;
+	right: 500px;
+	left: 135px;
+
+}
+
+
+
+.overviewh{
+	font-size: 50px;
+
+position: absolute;
+left: 135px;
+top: 70px;
+
+}
+.overview{
+	font-size: 25px;
+	font-style: normal;
+	position: absolute;
+	top: 200px;
+	right: 500px;
+	left: 135px;
+}
+
+.baplogo{
+	margin-top: 45px;
+	margin-left: 600px;
+
+
+}
+.bap{
+	font-size: 40px;
+
+position: absolute;
+left: 90px;
+top: 950px;
+
+}
+.bapdef{
+	font-size: 25px;
+	font-style: normal;
+	position: absolute;
+	top: 1050px;
+	right: 500px;
+	left: 135px;
+
+}
+.happydevelopers{
+	margin-top: 45px;
+	margin-left: 600px;
+
+}
+
+.happy{
+	font-size: 40px;
+
+position: absolute;
+left: 90px;
+top: 1360px;
+
+}
+
+
+.happydef{
+
+	font-size: 25px;
+	font-style: normal;
+	position: absolute;
+	top: 1450px;
+	right: 500px;
+	left: 135px;
+
+}
+
+
+.createdbysaifikram{
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+position: fixed;
+right: 0;
+left: 150;
+bottom: 150;
+top: 0;
+color: #98fb98;
+text-shadow: 2px 2px 5px black;
+
+
+}
+
+	body{
+	background-color: #cccccc;
+}
+

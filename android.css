@@ -1,0 +1,142 @@
+
+
+	/*design navigation */
+	
+	ul{
+		background-color: black;
+		font-family: monospace;
+		list-style-type: none;
+		font-weight: bolder;
+		font-size: 20px;
+		position: fixed;
+        margin: 0;
+		right: 0;
+		left: 0;
+		top: 0;
+		text-align: center;
+	}
+	/*navigation type,left right center this use the left*/
+	li{
+		float: left;
+	
+	}
+	/*design material like jo bhi yaha likha hua h*/
+	li a{
+		display: block;
+		color: lightgreen;
+		padding: 20px;
+		text-decoration: none;
+
+}
+
+/*this is awexome feature*/
+li a:hover{
+
+color: white;
+}
+
+
+li a{
+	position: relative;
+	right: 55px;
+}
+
+
+
+.kotlinlogo{
+ position: relative;
+ top: 8px;
+ right: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.overview{
+
+	color: black;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 70px;
+
+
+}
+.overviewdef{
+	 margin-top:30px;
+  margin-left: 100px;
+  color: black;
+  font-size: 28px;
+}
+.kalogo{
+	margin-left: 360px;
+}
+
+.whyusea{
+
+	color: black;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 70px;
+
+
+}
+
+
+.whyuseadef{
+
+	margin-top:30px;
+  margin-left: 100px;
+  color: black;
+  font-size: 28px;
+
+}
+
+.waulogo{
+
+	margin-left: 300px;
+
+}
+
+.waudef{
+
+
+	 margin-top:30px;
+  margin-left: 100px;
+  color: black;
+  font-size: 28px;
+
+}
+
+
+
+
+.createdbysaifikram{
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+position: fixed;
+right: 0;
+left: 150;
+bottom: 150;
+top: 0;
+color: #98fb98;
+text-shadow: 2px 2px 5px black;
+
+
+}
+
+	body{
+	background-color: #cccccc;
+}
+
